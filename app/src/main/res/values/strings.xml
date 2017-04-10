@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetMyRecipe</string>
+    <string name="chicken">Chicken</string>
+    <string name="onion">Onion</string>
+    <string name="tomato">Tomato</string>
+    <string name="eggs">Eggs</string>
+    <string name="salt">Salt</string>
+    <string name="cilantro">Cilantro</string>
+    <string name="get_recipe">Get Recipe</string>
+</resources>
